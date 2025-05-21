@@ -1,0 +1,49 @@
+*{
+    font-family: inter;
+}
+
+.entry{
+    display: flex;
+    padding: 0rem 32rem;
+    margin-top: 5rem;
+    height: 20rem;
+}
+
+.entry > img {
+    border-radius: 0.5rem;
+    height:100%
+}
+
+.descriptionText{
+    padding-top: 2rem;
+    margin-left: 3rem;
+}
+
+.desc1{
+    display: flex;
+    
+}
+
+.icon{
+    color: rgb(255, 105, 105);
+}
+
+.desc1 > p {
+    margin-left: 0.3rem;
+}
+
+.desc1 > a {
+    margin-left: 2rem;
+    color: rgb(151, 151, 151);
+}
+
+.desc2 {
+    margin-top: 1rem;
+    margin-bottom: 6rem;
+}
+
+.date {
+    font-weight: 20rem;
+    margin-bottom: 0.5rem
+}
+
